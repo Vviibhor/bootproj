@@ -1,0 +1,27 @@
+package com.cassdb.model;
+
+import org.springframework.data.cassandra.core.mapping.PrimaryKey;
+import org.springframework.data.cassandra.core.mapping.Table;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Table
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class User {
+	public User(int i, String string, String string2, int j) {
+		this.id = i;
+		this.address=string2;
+		this.name=string;
+		this.age=j;
+	}
+	@PrimaryKey
+	private int id;
+	private String name;
+	private String address;
+	private int age;
+
+}

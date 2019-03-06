@@ -1,0 +1,5 @@
+package com.cassdb.repo;
+
+public interface UserRepo {
+
+}

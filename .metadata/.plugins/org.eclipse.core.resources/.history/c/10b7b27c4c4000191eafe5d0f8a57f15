@@ -1,0 +1,13 @@
+package com.cassdb.repo;
+
+import java.util.List;
+
+import org.springframework.data.cassandra.repository.CassandraRepository;
+
+import com.cassdb.model.User;
+
+public interface UserRepo extends CassandraRepository<User, Integer>{
+
+	 List<User> findByAgeGreaterThan(int age);
+
+}

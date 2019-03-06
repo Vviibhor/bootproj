@@ -1,0 +1,5 @@
+package com.cassdb.model;
+
+public class User {
+
+}

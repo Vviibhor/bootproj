@@ -1,0 +1,9 @@
+package com.cassdb.repo;
+
+import org.springframework.data.cassandra.repository.CassandraRepository;
+
+import com.cassdb.model.User;
+
+public interface UserRepo extends CassandraRepository<User, Integer>{
+
+}

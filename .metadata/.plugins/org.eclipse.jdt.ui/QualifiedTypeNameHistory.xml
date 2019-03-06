@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.data.cassandra.core.mapping.Table"/>
+<fullyQualifiedTypeName name="org.springframework.data.cassandra.core.mapping.PrimaryKey"/>
+<fullyQualifiedTypeName name="lombok.Data"/>
+<fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+<fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+<fullyQualifiedTypeName name="org.springframework.data.cassandra.repository.CassandraRepository"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="com.cassdb.repo.UserRepo"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.apache.tomcat.jni.User"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="com.cassdb.model.User"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+</qualifiedTypeNameHistroy>

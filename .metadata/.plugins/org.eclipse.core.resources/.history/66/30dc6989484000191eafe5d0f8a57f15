@@ -1,0 +1,5 @@
+package com.cassdb.controller;
+
+public class UserController {
+
+}
